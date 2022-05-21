@@ -1,2 +1,2 @@
 #!/bin/bash
-jupyter labextension install qgrid --minimize=False
+jupyter labextension install qgrid2 --minimize=False
