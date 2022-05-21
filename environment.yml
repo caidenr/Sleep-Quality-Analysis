@@ -12,6 +12,7 @@ dependencies:
   - scipy
   - statsmodels
   - ipykernel
+  - ipywidgets
   - nbformat
   - cmocean
   - seaborn
