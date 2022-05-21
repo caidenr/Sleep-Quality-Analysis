@@ -2,6 +2,7 @@ name: capstone
 channels:
   - conda-forge
   - defaults
+  - conda-forge/label/broken
 dependencies:
   - ansi2html=1.5.2=py39haa95532_0
   - argon2-cffi=21.3.0=pyhd3eb1b0_0
